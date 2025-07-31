@@ -6,5 +6,5 @@ instance/
 
 .env
 
-.idea/dataSources.xml
+.idea/
 migrations/versions/
